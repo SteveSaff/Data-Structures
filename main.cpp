@@ -1,3 +1,7 @@
+//Stephen Saffioti
+//Program-1
+//Vending Machine Program
+
 #include <iostream>
 #include <string>
 #include "Item.h"
